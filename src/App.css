@@ -1,0 +1,12 @@
+.accordion-button::after {
+  filter: invert(1);
+}
+
+.nav-link:hover {
+  /* text-decoration: overline rgb(238, 45, 45); */
+  text-decoration: overline tomato;
+}
+
+.nav-item.active {
+  font-weight: bold;
+}
